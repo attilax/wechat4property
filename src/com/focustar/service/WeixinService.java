@@ -9,11 +9,13 @@ import javax.servlet.http.HttpServletRequest;
 import org.apache.log4j.Logger;
 import org.dom4j.DocumentException;
 
+import AaaCfg.IocX;
+
 import com.attilax.Closure;
 import com.attilax.core;
 import com.attilax.io.filex;
 import com.attilax.util.god;
-import com.focustar.IocX;
+ 
 import com.focustar.entity.TMbTask;
 import com.focustar.entity.TMbWeixinuser;
 import com.focustar.entity.weixin.message.request.TextMessage;
@@ -306,8 +308,13 @@ public class WeixinService {
 							
 							logger.info("当前用户["+fromUserName+"]无所属分公司");
 							uJober = new DownloadUserJober(fromUserName,true);//getUserinfoFrmWechatHandler
-							uJober.getUserinfoFrmWechatHandler=(Closure<TMbWeixinuser, Object>) IocX.map.get("getUserinfoFrmWechatHandler");
-				//		}
+							try {
+								uJober.getUserinfoFrmWechatHandler=(Closure<TMbWeixinuser, Object>) IocX.map.get("getUserinfoFrmWechatHandler");
+
+							} catch (Exception e) {
+								logger.error(e);
+							}
+										//		}
 						
 						if(uJober != null){
 							logger.info("启动用户信息下载");

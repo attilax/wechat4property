@@ -14,9 +14,11 @@ import javax.servlet.http.HttpServletResponse;
 import org.apache.log4j.Logger;
 import org.dom4j.DocumentException;
 
+import AaaCfg.IocX;
+
 import com.attilax.core;
 import com.attilax.io.pathx;
-import com.focustar.IocX;
+ 
 import com.focustar.dao.impl.NewsImpl;
 import com.focustar.service.WeixinService;
 import com.focustar.util.SignUtil;
@@ -56,7 +58,7 @@ public class WeixinServlet extends HttpServlet {
 		
 		try {
 			core.log("--o66b");
-			IocX.ini();
+		 	IocX.ini();
 			// 将请求、响应的编码均设置为UTF-8（防止中文乱码）
 			request.setCharacterEncoding("UTF-8");
 			response.setCharacterEncoding("UTF-8");

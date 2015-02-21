@@ -18,7 +18,7 @@ import com.attilax.io.filex;
 import com.attilax.io.pathx;
 import com.attilax.wechat.TokenX;
 import com.attilax.wechat.WechatX;
-import com.focustar.IocX;
+ 
 import com.focustar.dao.impl.ListenerImpl;
 import com.focustar.dao.impl.UserImpl;
 import com.focustar.entity.TMbGroup;
