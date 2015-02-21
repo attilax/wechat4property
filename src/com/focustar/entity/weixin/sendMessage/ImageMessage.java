@@ -1,0 +1,22 @@
+package com.focustar.entity.weixin.sendMessage;
+
+/** 
+ * 发送图片消息
+ * com.focustar.entity.weixin.sendMessage
+ * ImageMessage.java 
+ * author:vincente  2013-11-18 
+ */
+public class ImageMessage extends BaseMessage {
+	
+	private Image image;
+
+	public Image getImage() {
+		return image;
+	}
+
+	public void setImage(Image image) {
+		this.image = image;
+	}
+	
+	
+}

@@ -1,0 +1,56 @@
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2526,     "downtype": 2,     "equipmentId": 1   }],   "appid": ["864264020481740"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2526,     "downtype": 2,     "equipmentId": 1   }],   "appid": ["864264020481740"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2525,     "downtype": 2,     "equipmentId": 1   }],   "appid": ["864264020481740"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2525,     "downtype": 2,     "equipmentId": 1   }],   "appid": ["864264020481740"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2524,     "downtype": 2,     "equipmentId": 1   }],   "appid": ["864264020481740"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2524,     "downtype": 2,     "equipmentId": 1   }],   "appid": ["864264020481740"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2524,     "downtype": 2,     "equipmentId": 1   }],   "appid": ["864264020481740"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2519,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2521,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2519,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2521,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2519,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2521,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2523,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2523,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2522,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2520,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2520,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2522,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2518,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2517,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2517,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2517,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2517,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2516,     "downtype": 1,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":0,"errmsg":"ok" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": [  {     "dsId": 2516,     "downtype": 2,     "equipmentId": 7   }],   "appid": ["c181f12b-2264-421f-9054-b0b69fb9780d"],   "sign": ["xxxx"] }
+{"errcode":1,"errmsg":"java.lang.RuntimeException: java.lang.RuntimeException: gvdownload svs:: no this id:327" }
+{   "submethod": ["postDownTaskBackfeed"],   "param": ["{\r\n\t\t\t   \"dsId\": 327,     \r\n\t\t\t  \"equipmentId\": 15,\r\n\t\t\t  \"downtype\":2\r\n\t\t\t } \r\n"],   "appid": ["1234507y767676"],   "sign": ["xxxxxx"] }
+{   "submethod": ["postDownTaskBackfeed"],   "param": ["{\r\n\t\t\t   \"dsId\": 327,     \r\n\t\t\t  \"equipmentId\": 15,\r\n\t\t\t  \"downtype\":2\r\n\t\t\t } \r\n"],   "appid": ["1234507y767676"],   "sign": ["xxxxxx"] }
+{   "submethod": ["postDownTaskBackfeed"],   "param": ["{\r\n\t\t\t   \"dsId\": 327,     \r\n\t\t\t  \"equipmentId\": 15,\r\n\t\t\t  \"downtype\":2\r\n\t\t\t } \r\n"],   "appid": ["1234507y767676"],   "sign": ["xxxxxx"] }

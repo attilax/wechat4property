@@ -1,0 +1,18 @@
+{
+	"button": [{
+		"name": "产品世界",
+				"type": "view",
+			"url": "http://218.83.161.190:8973/cpsj.aspx"
+	
+	},
+	{
+		"name": "关于我们",
+		"type": "view",
+			"url": "http://218.83.161.190:8973/gywm.aspx"
+	},
+	{
+		"name": "个人中心",
+			"type": "view",
+			"url": "https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx947702f1812d3249&redirect_uri=http://wechat.attilax.com/syncLogin.jsp&response_type=code&scope=snsapi_base&state=1#wechat_redirect"
+	}]
+}

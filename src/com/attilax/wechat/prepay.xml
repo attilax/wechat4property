@@ -1,0 +1,14 @@
+<xml>
+ <mch_id><![CDATA[@mchid]]></mch_id>
+  <openid><![CDATA[@openid]]></openid>
+  <body><![CDATA[@title]]></body>
+  <out_trade_no><![CDATA[@orderno]]></out_trade_no>
+  <total_fee>@fee</total_fee>
+  <notify_url><![CDATA[@notify_url]]></notify_url>
+  <trade_type><![CDATA[JSAPI]]></trade_type>
+  <appid><![CDATA[@appid]]></appid>
+ 
+  <spbill_create_ip><![CDATA[@ip]]></spbill_create_ip>
+  <nonce_str><![CDATA[60uf9sh6nmppr9azveb2bn7arhy79izk]]></nonce_str>
+  <sign><![CDATA[@sign]]></sign>
+</xml>

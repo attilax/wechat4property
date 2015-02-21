@@ -1,0 +1,26 @@
+{
+	"button": [{
+		"name": "逛逛",
+		"type": "view",
+		"url": "http://112.74.110.80/wechat/walk.jsp"
+	},
+	{
+		"name": "服务",
+		 
+		"sub_button": [{
+			"url": "http://112.74.110.80/wechat/walk.jsp",
+			"name": "物业服务",
+			"type": "view"
+		},
+		{
+			"url": "http://112.74.110.80/wechat/walk.jsp",
+			"name": "鹏博士专区",
+			"type": "view"
+		}]
+	},
+	{
+		"name": "电视",
+		"type": "view",
+		"url": "http://112.74.110.80/wechat/tv.jsp"
+	}]
+}
