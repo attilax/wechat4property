@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<style type="text/css">
+#aa {
+	font-size: 12px;
+}
+</style>
+</head>
+
+<body>
+<div id="aa"></div>
+ 此处显示  id "aa" 的内容
+<script>
+function t(propty)
+{
+	alert(propty);
+var json={"0":"视频","1":"图片"};
+   return  json[propty];
+}
+function checkMtrlDescExist()
+{	
+	alert("check")
+}
+//alert(t(0));
+var remote=[];
+var remote=new Array();
+var remote=function()
+{
+	alert(arguments);
+}
+var s="remote['checkMtrlDescExist','materialDescription']";
+alert(s.substr(6));
+var o2=eval(s);
+var ev=o2[0];
+var evHdl=eval(ev);
+evHdl();
+//alert(o2[0]);
+	//var ops_json=eval( "({"+s+"})" );
+//alert(ops_json[0]);
+</script>
+</body>
+</html>
