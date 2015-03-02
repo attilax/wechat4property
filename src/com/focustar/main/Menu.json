@@ -8,12 +8,12 @@
 		"name": "服务",
 		 
 		"sub_button": [{
-			"url": "http://112.74.110.80/wechat/walk.jsp",
+			"url": "http://112.74.110.80/wechat/property.jsp",
 			"name": "物业服务",
 			"type": "view"
 		},
 		{
-			"url": "http://112.74.110.80/wechat/walk.jsp",
+			"url": "http://112.74.110.80/wechat/pendr.jsp",
 			"name": "鹏博士专区",
 			"type": "view"
 		}]
