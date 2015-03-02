@@ -1,0 +1,12 @@
+UML (83)Apply UML filter 
+Modeling 
+ 
+Source Code Analyzer (10 
+Documentation (8) 
+UI (8)Apply UI filter 
+ 
+Testing (6)Apply Testing filter 
+ 
+Reporting (3)Apply Reporting filter 
+Search (3)Apply Search filter 
+ 
